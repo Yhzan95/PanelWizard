@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.custom-container {
+  max-width: 800px;
+  width: 100%;
+  padding: 20px;
+  background: #ffffff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+.card {
+  margin-top: 20px;
+}
+.progress {
+  height: 20px;
+}
